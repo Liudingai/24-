@@ -31,4 +31,4 @@ int main()
 		myWindow.spinOnce(1, true);
 	}
 	return 0;
-}
+}//sanweikeshihua
