@@ -1,0 +1,3 @@
+/home/liu/第三次/24第三次培训作业/去畸变/build/CMakeFiles/example.dir
+/home/liu/第三次/24第三次培训作业/去畸变/build/CMakeFiles/edit_cache.dir
+/home/liu/第三次/24第三次培训作业/去畸变/build/CMakeFiles/rebuild_cache.dir
